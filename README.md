@@ -72,7 +72,3 @@ Sanitizer availability depends on compiler and platform support.
 - Synchronization
 - Deterministic Lock Ordering
 - Shared-State Invariants
-
-## Authors
-
-Developed individually by Mohnish Sheth.
