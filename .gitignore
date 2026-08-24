@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+artifact-search
+test-search
+test-search-asan
+test-search-tsan
+.DS_Store
+*.dSYM/
